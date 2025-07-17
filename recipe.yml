@@ -1,0 +1,5 @@
+name: 'ICMS Product  - Content Recipe'
+description: 'Provide default content for the ICMS Product.'
+type: 'Content'
+recipes:
+  - icms_base_content

@@ -1,0 +1,95 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 7e8c2b1a-5f3e-4c2a-9e2d-1a4b6e8f9c2d
+  bundle: icms_product
+  default_langcode: de
+  depends:
+    d99e7252-4555-4701-a788-25befa086176: user
+    6462ab73-beb9-449b-b85b-29b185216c3e: media
+    f8a1a06a-c8bd-4efc-bc59-8feee29d4808: taxonomy_term
+default:
+  revision_uid:
+    -
+      entity: d99e7252-4555-4701-a788-25befa086176
+  status:
+    -
+      value: true
+  uid:
+    -
+      entity: d99e7252-4555-4701-a788-25befa086176
+  title:
+    -
+      value: 'Produkt 2 Thema B'
+  created:
+    -
+      value: 1751724813
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Produkt 2 Thema B | ICMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Produkt zum Thema B'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'http://default/de/produkt/produkt-2-thema-b'
+    -
+      tag: link
+      attributes:
+        rel: image_src
+        href: 'http://default/sites/default/files/styles/icms_og_image/public/media/images/Placeholder-iqual-CMS.png?h=a92f03cd&itok=ehHq-8F3'
+  path:
+    -
+      alias: /produkt/produkt-2-thema-b
+      langcode: de
+      pathauto: 1
+  content_translation_source:
+    -
+      value: und
+  content_translation_outdated:
+    -
+      value: false
+  body:
+    -
+      value: 'Produkt zum Thema B'
+      format: plain_text
+      summary: ''
+  field_blokkli_comments:
+    -
+      status: 2
+      cid: 0
+      last_comment_timestamp: 1751724860
+      last_comment_name: ''
+      last_comment_uid: 17
+      comment_count: 0
+  field_icms_image:
+    -
+      entity: 6462ab73-beb9-449b-b85b-29b185216c3e
+  field_icms_teaser_pretitle:
+    -
+      value: Produkt
+  field_icms_teaser_title:
+    -
+      value: 'Produkt zu Thema A'
+  field_icms_topics:
+    -
+      entity: f8a1a06a-c8bd-4efc-bc59-8feee29d4808
