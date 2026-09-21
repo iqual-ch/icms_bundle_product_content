@@ -90,9 +90,6 @@ default:
           field_icms_pretitle:
             -
               value: 'ICMS Bundle'
-          field_icms_subtitle:
-            -
-              value: 'Products with rich detail pages.'
           field_icms_text:
             -
               value: '<p>The Products bundle showcases products with images, rich content sections and topic filters for the listing.</p>'
@@ -123,9 +120,6 @@ default:
             field_icms_pretitle:
               -
                 value: 'ICMS Bundle'
-            field_icms_subtitle:
-              -
-                value: 'Produkte mit ausführlichen Detailseiten.'
             field_icms_text:
               -
                 value: '<p>Das Produkte-Bundle präsentiert Produkte mit Bildern, umfangreichen Inhaltsbereichen und Themenfiltern für die Liste.</p>'
@@ -149,9 +143,6 @@ default:
             field_icms_pretitle:
               -
                 value: 'ICMS Bundle'
-            field_icms_subtitle:
-              -
-                value: 'Produits avec pages de détail complètes.'
             field_icms_text:
               -
                 value: '<p>Le bundle Produits présente des produits avec images, sections de contenu riches et filtres thématiques pour la liste.</p>'
@@ -175,9 +166,6 @@ default:
             field_icms_pretitle:
               -
                 value: 'ICMS Bundle'
-            field_icms_subtitle:
-              -
-                value: 'Prodotti con pagine di dettaglio complete.'
             field_icms_text:
               -
                 value: "<p>Il bundle Prodotti presenta prodotti con immagini, sezioni di contenuto ricche e filtri tematici per l'elenco.</p>"
